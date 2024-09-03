@@ -27,3 +27,6 @@ Created for a bounty hackathon (re: https://x.com/the_jasonsamuel/status/1828082
 5. Convert text to speech
 6. Select or upload a video
 7. Generate the final TikTok video
+
+## Demo
+https://youtu.be/KflP5pz6SFs
