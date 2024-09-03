@@ -1,4 +1,5 @@
 # PDF to TikTok Content Generator 
+in a few clicks
 
 This Streamlit application extracts text from PDF files, generates TikTok scripts using AI, converts text to speech, and creates TikTok-style videos with overlaid content.
 Created for a bounty hackathon (re: https://x.com/the_jasonsamuel/status/1828082930813747579)
