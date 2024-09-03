@@ -1,0 +1,10 @@
+streamlit
+PyMuPDF
+langchain-anthropic
+python-dotenv
+edge-tts
+moviepy
+Pillow
+numpy
+pydub
+SpeechRecognition
